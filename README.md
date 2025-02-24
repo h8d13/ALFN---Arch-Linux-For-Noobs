@@ -7,10 +7,12 @@ Great, now you're here.
 
 `archinstall` for the classic debian style noob installer.
 
-Couple of things to watch here:
-Make sure to set the proper keyboard layout, and also to set a root password. 
-Make sure to go to profile > type > and select a desktop environment (Window managers can be more complex for noobs.)
-I recommend trying Budgie, it looks much more modern and slick than most in 2025. 
+### Important Setup Steps
+* Make sure to set the proper keyboard layout
+* Set a root password
+* Go to profile > type > and select a desktop environment (Window managers can be more complex for beginners)
+* Recommended desktop environment: 
+  * Try Budgie, it looks much more modern and slick than most in 2025
 
 Now press install > wait for it to finish. 
 
