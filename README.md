@@ -32,6 +32,7 @@ You can now Cristiano Ronaldo you arch install `sudo pacman -Syyu` to update cor
 
 This also comes with essentials such as file browser, terminal, ressource monitor, and more... 
 
+Make sure to create a user with a different password as root. 
 Now you can simply `sudo pacman -S firefox` careful for case sensitive :)
 
 ----
@@ -64,7 +65,5 @@ You can simply relaunch the shell and get something like this :)
 Now this was just an example but the idea is that you can edit most of the system through this /etc configurations. 
 
 You can also `sudo pacman -S bash-completion` reload your terminal and press tab while typing a command.
-
-
 
 
