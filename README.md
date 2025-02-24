@@ -44,7 +44,7 @@ My favourite is workspaces and keyboard shortcuts.
 Makes me think of KDE with less clutter which is great for this type of more minimal install. 
 People always show how great there distro looks but reality is I want it the be efficient and simple. 
 
-Anyways enough ranting now time for the big boy stuff:
+### Enough ranting now time for the big boy stuff:
 
 `cd /etc` Here you will find many system configurations. `ls -l` 
 
@@ -57,8 +57,8 @@ Thanks to user @Calvince
 
 https://gist.github.com/calvince/b4f1a321369ade869789d99a2604670f
 
-You can simply relaunch the shell and get something liek this :)
+You can simply relaunch the shell and get something like this :)
 
 ![Screenshot 2025-02-24 16-22-38](https://github.com/user-attachments/assets/b4aa7396-fc9c-4225-9fe3-578990555ff5)
 
-Now this was jsut an example but the idea is that you can edit most of the system through this /etc configurations. 
+Now this was just an example but the idea is that you can edit most of the system through this /etc configurations. 
