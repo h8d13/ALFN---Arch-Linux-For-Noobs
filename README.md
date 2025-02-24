@@ -25,4 +25,5 @@ It brings you to another shell, damn. If you skip this you're f*ed (I think for 
 
 Reboot from the drive you installed on. 
 
+Depending on if you set a profile up in the installer you either log in as root or as your profile name.
 
