@@ -62,3 +62,9 @@ You can simply relaunch the shell and get something like this :)
 ![Screenshot 2025-02-24 16-22-38](https://github.com/user-attachments/assets/b4aa7396-fc9c-4225-9fe3-578990555ff5)
 
 Now this was just an example but the idea is that you can edit most of the system through this /etc configurations. 
+
+You can also `sudo pacman -S bash-completion` reload your terminal and press tab while typing a command.
+
+
+
+
