@@ -17,10 +17,12 @@ Great, now you're here.
 
 Now press install > wait for it to finish. 
 
-Will prompt you with would you like to chroot... No we are noobs.  
+IMPORTANT:
+
+When the install is over will prompt you with would you like to chroot... No we are noobs.  
 You will get to shell at the end of installation, we are noobs so we don't care `exit`. 
 
-It brings you to another shell, damn. If you skip this you're f*ed (I think for proper clean-up): `shutdown -h now`
+It brings you to another shell, damn.(I think for proper clean-up): `shutdown -h now`
 
 ## Starting out. 
 
