@@ -9,6 +9,7 @@ Great, now you're here.
 
 ### Important Setup Steps
 * Make sure to set the proper keyboard layout
+* Right target drive and default format, press yes to defaults. 
 * Set a root password
 * Go to profile > type > and select a desktop environment (Window managers can be more complex for beginners)
 * Recommended desktop environment: 
