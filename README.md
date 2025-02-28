@@ -8,9 +8,10 @@ Great, now you're here.
 `archinstall` for the classic debian style noob installer.
 
 ### Important Setup Steps
-* Make sure to set the proper keyboard layout
-* Right target drive and default format, press yes to defaults. 
-* Set a root password
+* Make sure to set the proper keyboard layout (for your password to work)
+* Make sure to put the right Timezone (for server handshakes) 
+* Right target drive and default format, press yes to defaults, default format. 
+* Set a root password (and a user without sudo, even better)
 * Go to profile > type > and select a desktop environment (Window managers can be more complex for beginners)
 * Recommended desktop environment: 
   * Try Budgie, it looks much more modern and slick than most in 2025
