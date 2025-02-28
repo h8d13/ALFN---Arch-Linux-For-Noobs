@@ -18,9 +18,10 @@ Great, now you're here.
 
 Now press install > wait for it to finish. 
 
-IMPORTANT:
+IMPORTANT: 
 
-When the install is over will prompt you with would you like to chroot... No we are noobs.  
+**When the install is over will prompt you with would you like to chroot... No we are noobs.**
+
 You will get to shell at the end of installation, we are noobs so we don't care `exit`. 
 
 It brings you to another shell, damn.(I think for proper clean-up): `shutdown -h now`
