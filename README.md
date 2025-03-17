@@ -79,6 +79,8 @@ You can also `sudo pacman -S bash-completion` reload your terminal and press tab
 
 ## Keyboard locales
 
+For reference this is why I'm discussing this: [Alpine Setup](https://github.com/h8d13/ALFN---Alpine-Linux-For-Noobs)
+
 As always ended up finishing in KDE. 
 
 This seems to be a common issue within login managers, desktop environments... , on the one hand, a lot of people in dev use default US layouts (which makes sense), on the other it makes for weird scripts in many different init systems... Typically many login managers will get it wrong which I find odd as it's often one of the first steps in a system's install. 
@@ -88,4 +90,13 @@ In sddm i found it quite simple: `cd /usr/share/sddm` then edit the Xsetup file 
 ![image](https://github.com/user-attachments/assets/9fabf4e2-cf01-419d-ae8f-a741e9920aec)
 
 The dropdown works here but only using arrow keys which I found annoying, but thanks to our little change we won't be needing it anymore. 
+
+----
+
+## SDDM > `systemctl disable sddm` 
+
+Then create two aliases in .profile
+
+alias startde="systemctl start sddm"
+alias stopde="systemctl stop sddm"
 
