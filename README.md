@@ -75,3 +75,15 @@ Now this was just an example but the idea is that you can edit most of the syste
 You can also `sudo pacman -S bash-completion` reload your terminal and press tab while typing a command.
 
 
+----
+
+## Keyboard locales
+
+This seems to be a common issue within login managers, desktop environments... , on the one hand, a lot of people in dev use default US layouts (which makes sense), on the other it makes for weird scripts in many different init systems... Typically many login managers will get it wrong which I find odd as it's often one of the first steps in a system's install. 
+
+In sddm i found it quite simple: `cd /usr/share/sddm` then edit the Xsetup file to include "setxkbmap lang". 
+
+![image](https://github.com/user-attachments/assets/9fabf4e2-cf01-419d-ae8f-a741e9920aec)
+
+The dropdown works here but only using arrow keys which I found annoying, but thanks to our little change we won't be needing it anymore. 
+
