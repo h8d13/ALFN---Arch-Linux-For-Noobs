@@ -37,7 +37,11 @@ You can now Cristiano Ronaldo you arch install `sudo pacman -Syyu` to update cor
 This also comes with essentials such as file browser, terminal, ressource monitor, and more... 
 
 Make sure to create a user with a different password as root. 
+
 Now you can simply `sudo pacman -S firefox` careful for case sensitive :)
+
+Or -Qs to search through installed
+Or -R to remove
 
 ----
 
