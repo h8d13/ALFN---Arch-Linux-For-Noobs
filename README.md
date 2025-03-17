@@ -93,10 +93,10 @@ The dropdown works here but only using arrow keys which I found annoying, but th
 
 ----
 
-## SDDM > `systemctl disable sddm` 
-
-Then create two aliases in .profile
-
+## SDDM 
+> `systemctl disable sddm` 
+Then create two aliases in `.profile` 
+```
 alias startde="systemctl start sddm"
 alias stopde="systemctl stop sddm"
-
+``` 
